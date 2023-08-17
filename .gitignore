@@ -1,0 +1,4 @@
+logs
+*.log
+.vscode
+contact_list/node_modules/

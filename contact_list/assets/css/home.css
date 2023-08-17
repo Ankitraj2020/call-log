@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+#para1{
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
+#a1{
+    text-align: center;
+}
+#b1{
+    display: inline-block;
+    margin-left: 10px;
+}
+
